@@ -7,4 +7,3 @@ Insira aqui um resumo do projeto que será construído. Tente apresentar uma jus
  - [Ernandes Costa](https://github.com/ernandes0)
  - [Fabrício Martins](https://github.com/FabricioMartinsss)
  - [Leonardo Franzoi](url-do-github-do-desenvolvedor-#4)
- - ...
