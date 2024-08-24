@@ -10,4 +10,3 @@ Os sistemas de compartilhamento de bicicletas têm se tornado cada vez mais popu
  - [Carla Neves](https://github.com/adiosCarla)
  - [Ernandes Costa](https://github.com/ernandes0)
  - [Fabrício Martins](https://github.com/FabricioMartinsss)
- - [Leonardo Franzoi](url-do-github-do-desenvolvedor-#4)
