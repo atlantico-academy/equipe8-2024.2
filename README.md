@@ -2,7 +2,7 @@
   
   
   
-  <img src="images/graphical_abstract/bike_sharing.png" width="400" height = '300'>
+  <img src="images/logo/logo_datahunter_dark.png" width="450" height = '300'>
 </div>
 <hr>
 
