@@ -1,10 +1,18 @@
+<div align="center">
+  
+  
+  
+  <img src="images/graphical_abstract/bike_sharing.png" width="400" height = '300'>
+</div>
+<hr>
+
 # Bike Sharing
 
 Os sistemas de compartilhamento de bicicletas têm se tornado cada vez mais populares em todo o mundo devido aos seus benefícios para o trânsito, meio ambiente e saúde pública. A análise dos dados gerados por esses sistemas pode fornecer informações cruciais para otimizar seu funcionamento, identificar necessidades de manutenção e reposição de bicicletas, e entender melhor o comportamento dos usuários. Isso pode levar a um melhor planejamento urbano e políticas públicas mais eficientes.
 .
 
 ## Resumo Gráfico
-![Graphical Abstract](graphical_abstract/bike_sharing.png)
+![Graphical Abstract](images/graphical_abstract/bike_sharing.png)
 
 ## Desenvolvedores
  - [Carla Neves](https://github.com/adiosCarla)
